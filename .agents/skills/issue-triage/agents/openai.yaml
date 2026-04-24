@@ -1,0 +1,2 @@
+model: o3
+tools: [read_file, list_files, create_issue_comment, add_label, search_issues]
